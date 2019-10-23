@@ -4,6 +4,8 @@ The projects goal was to simulate the flocking behaviour of birds over top of te
 A shader has been created for the terrain and some animation has been done to the boids(seagulls) to add some 
 realism.
 
+Video: https://youtu.be/S2lcgwQmnqI
+
 The boids are controlled by collision avoidance, group allingment, group cohesiveness, and are directed to 
 follow the RedArrow. The RedArrow itself follows a spline of selected points. Inside Unity both terrain
 and flocking setttings can be altered.
