@@ -13,10 +13,17 @@ and flocking setttings can be altered.
 Controls for camera:
 
 A = Pan left
+
 D = Pan right
+
 W = Tilt up
+
 S = Tilt down
+
 R = Raise Camera
+
 F = Lower Camera
+
 Arrow Keys = moving the camera left, right, forward, and backward
+
 Z = triggers the predator boid to lock onto a seagull and attack
